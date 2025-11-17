@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/github-trending-repos/static/css/main.21c3a97e.css",
+    "main.css": "/github-trending-repos/static/css/main.2455e6dd.css",
     "main.js": "/github-trending-repos/static/js/main.75bcbf48.js",
     "index.html": "/github-trending-repos/index.html",
-    "main.21c3a97e.css.map": "/github-trending-repos/static/css/main.21c3a97e.css.map",
+    "main.2455e6dd.css.map": "/github-trending-repos/static/css/main.2455e6dd.css.map",
     "main.75bcbf48.js.map": "/github-trending-repos/static/js/main.75bcbf48.js.map"
   },
   "entrypoints": [
-    "static/css/main.21c3a97e.css",
+    "static/css/main.2455e6dd.css",
     "static/js/main.75bcbf48.js"
   ]
 }
