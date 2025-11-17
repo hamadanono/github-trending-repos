@@ -1,4 +1,4 @@
-# GitHub Trending Repos (Last 10 Days)
+# GitHub Trending Repos
 
 A responsive React web app that displays the most starred GitHub repositories created in the last 10 days, with infinite scroll.
 
