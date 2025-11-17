@@ -10,7 +10,7 @@ Live Demo: https://hamadanono.github.io/github-trending-repos
 - Shows only repositories created in the last 10 days
 - Sorted by number of stars (descending)
 - Infinite scrolling
-- Fully responsive – works perfectly on mobile and desktop
+- Responsive design
 
 ## Tech Stack
 
@@ -18,7 +18,7 @@ Live Demo: https://hamadanono.github.io/github-trending-repos
 - Axios
 - Moment.js
 - react-infinite-scroll-component
-- CSS
+- Vanilla CSS
 
 ## How It Works
 
@@ -29,27 +29,18 @@ Live Demo: https://hamadanono.github.io/github-trending-repos
 4. Appends new results to the list as you scroll
 5. Stops when no more repositories are returned
 
-## Project Structure
-
-src/
-  App.js
-  index.js
-  index.css
-public/
-  index.html
-
 ## Setup & Run Locally
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/hamadanono/github-trending-repos.git
+cd github-trending-repos
 
 # Install dependencies
 npm install
 
 # Start development server
 npm start
-
-Open http://localhost:3000 to view it in the browser.
+```
+Go to http://localhost:3000 to view it in the browser.
 
