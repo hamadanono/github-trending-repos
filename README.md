@@ -12,14 +12,6 @@ Live Demo: https://hamadanono.github.io/github-trending-repos
 - Infinite scrolling – loads more repos automatically
 - Responsive design
 
-## Tech Stack
-
-- React.js
-- Axios
-- Moment.js
-- react-infinite-scroll-component
-- Vanilla CSS
-
 ## Setup & Run Locally
 
 ```bash
